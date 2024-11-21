@@ -23,7 +23,7 @@ Installation
 
 1.  Clone this repository:
     
-        git clone https://github.com/yourusername/crop-monitoring-system.git
+        git clone https://github.com/julisunkan/crop-monitoring-system.git
         cd crop-monitoring-system
         
     
