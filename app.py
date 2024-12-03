@@ -84,7 +84,7 @@ class CropHealth:
 
 def main():
     # Initialize components
-    weather = WeatherForecast('YOUR_OPENWEATHERMAP_API_KEY', 'London')
+    weather = WeatherForecast('d2cc066e9af9ec4191957bee4a0cf852', 'Ibadan')
     sensors = SensorData()
     pest_detection = PestDetection()
     crop_health = CropHealth()
