@@ -23,8 +23,8 @@ Installation
 
 1.  Clone this repository:
     
-        git clone https://github.com/julisunkan/crop-monitoring-system.git
-        cd crop-monitoring-system
+        git clone https://github.com/julisunkan/crop_monitoring_system.py.git
+        cd crop_monitoring_system.py
         
     
 2.  Install the required packages:
