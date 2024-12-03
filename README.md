@@ -30,9 +30,10 @@ Installation
 2.  Install the required packages:
     
         pip install flask requests
+        pip install requests matplotlib
         
     
-3.  Set up your OpenWeatherMap API key:
+4.  Set up your OpenWeatherMap API key:
     
     *   Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/)
     *   Get your API key from your account dashboard
